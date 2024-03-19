@@ -1,0 +1,41 @@
+.container-fluid.margined-top-15{
+  margin-top: 10px !important;
+}
+
+.ui_form{
+  width: 100% !important;
+}
+
+.panel.panel-default{
+  border-radius: 10px !important;
+}
+
+.panel-heading{
+	border-radius: 10px 10px 0px 0px !important;
+}
+
+#sidebar{
+  margin: 10px !important;
+  border-radius: 10px;
+}
+
+.switch-toggle.switch-2.switch-mins {
+  margin: 6px 5px !important;
+  width: -webkit-fill-available;
+	background: none;
+}
+
+label{
+	background: #232428;
+  border-radius: 8px;
+}
+
+ul.navigation{
+  background: #232428 !important;
+  margin: 6px !important;
+  border-radius: 8px !important;
+}
+
+.sub-wrapper{
+  background: #27282c;
+}
